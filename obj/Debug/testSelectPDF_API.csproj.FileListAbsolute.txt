@@ -1,0 +1,13 @@
+C:\Users\Leo_Hsu\Desktop\Practice\testSelectPDF_API\testSelectPDF_API\bin\Debug\testSelectPDF_API.exe.config
+C:\Users\Leo_Hsu\Desktop\Practice\testSelectPDF_API\testSelectPDF_API\bin\Debug\testSelectPDF_API.exe
+C:\Users\Leo_Hsu\Desktop\Practice\testSelectPDF_API\testSelectPDF_API\bin\Debug\testSelectPDF_API.pdb
+C:\Users\Leo_Hsu\Desktop\Practice\testSelectPDF_API\testSelectPDF_API\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Leo_Hsu\Desktop\Practice\testSelectPDF_API\testSelectPDF_API\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Leo_Hsu\Desktop\Practice\testSelectPDF_API\testSelectPDF_API\obj\Debug\testSelectPDF_API.csproj.AssemblyReference.cache
+C:\Users\Leo_Hsu\Desktop\Practice\testSelectPDF_API\testSelectPDF_API\obj\Debug\testSelectPDF_API.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leo_Hsu\Desktop\Practice\testSelectPDF_API\testSelectPDF_API\obj\Debug\testSelectPDF_API.csproj.CoreCompileInputs.cache
+C:\Users\Leo_Hsu\Desktop\Practice\testSelectPDF_API\testSelectPDF_API\obj\Debug\testSelectPDF_API.csproj.CopyComplete
+C:\Users\Leo_Hsu\Desktop\Practice\testSelectPDF_API\testSelectPDF_API\obj\Debug\testSelectPDF_API.exe
+C:\Users\Leo_Hsu\Desktop\Practice\testSelectPDF_API\testSelectPDF_API\obj\Debug\testSelectPDF_API.pdb
+C:\Users\Leo_Hsu\Desktop\Practice\testSelectPDF_API\testSelectPDF_API\bin\Debug\SelectPdf.Api.dll
+C:\Users\Leo_Hsu\Desktop\Practice\testSelectPDF_API\testSelectPDF_API\bin\Debug\SelectPdf.Api.xml
