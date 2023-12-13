@@ -20,7 +20,7 @@ namespace testSelectPDF_API
         {
             //SelectPdfPostWithHttpWebRequest();
             //SelectPdfPostWithWebClient();
-            SelectPdfByRawHtmlString();//
+            SelectPdfByRawHtmlString();//1234
             Console.ReadLine();
         }
 
